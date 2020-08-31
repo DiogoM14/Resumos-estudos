@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "2b05f102baccffa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8329bac1e5d10e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git e GitHub.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c23da8658330bb56",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc4751d8b54f0444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2f4848badbdc56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "610a459e2cbdf1ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3e426253e88590d",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c74cd936a3dc3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bebf3a5b824453c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git e GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Git e GitHub.md",
+    "Untitled.md"
+  ]
+}
