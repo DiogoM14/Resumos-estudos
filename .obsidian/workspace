@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git e GitHub.md",
+            "file": "Git.md",
             "mode": "preview"
           }
         }
@@ -62,7 +62,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git e GitHub.md"
+                "file": "Git.md"
               }
             }
           }
