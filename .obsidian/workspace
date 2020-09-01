@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "BigIdeas/Principios.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "abbeba0989243d27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BigIdeas/Principios.md",
             "mode": "preview"
           }
         }
@@ -46,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f3e426253e88590d",
@@ -62,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md"
+                "file": "BigIdeas/Principios.md"
               }
             }
           }
@@ -74,7 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Git e GitHub.md",
-    "Untitled.md"
+    "BigIdeas/BigIdeas.md",
+    "BigIdeas/Untitled.md",
+    "Untitled.md",
+    "Git e GitHub.md"
   ]
 }
