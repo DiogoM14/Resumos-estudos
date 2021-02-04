@@ -28,6 +28,9 @@ git clone | Clonar projeto / repositório
 git pull | Puxar do repositório remoto, alguma modificação feita por outra pessoa
 git checkout be283r72r8bfidsufuf4783643888vddw2 -- index.html | Permite pegar em arquivos de outros commits. Com o `git log` encontramos o commit que queremos pegar  
 git checkout -- webpack.config.js | Recupera o arquivo apagado, caso não tenhamos feito nenhum commit
+git reset | Desfaz as alterações locais e reverte tudo para o último commit
+git stash | Guarda as alterações noutro diretório de trabalho
+
 
 
 
